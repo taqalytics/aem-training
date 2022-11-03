@@ -1,6 +1,6 @@
 # AEM (ADOBE Experience Manager) Training
 
-Here we will be adding training materials and resources to learn AEM (Adobe Experience Manager) as a developer.
+Here we will be adding training materials and resources to learn AEM (Adobe Experience Manager) as a practitioner, developer, and architect and as well as how to get certifications for these roles.
 
 ## Prerequisite:
 
