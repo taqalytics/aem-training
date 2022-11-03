@@ -2,6 +2,12 @@
 
 Here we will be adding training materials and resources to learn AEM (Adobe Experience Manager) as a developer.
 
+## Prerequisite:
+
+-  Basic knowledge of Java
+
+-  Basic knowledge of HTML / JS / CSS
+
 ## AEM Tutorials
 
 -   Adobe AEM Tutorials
@@ -11,4 +17,3 @@ Here we will be adding training materials and resources to learn AEM (Adobe Expe
 -   AEM Developer Series - (20 Days) A good step by step developer focussed series 
     - [AEM Developer Series](https://redquark.org/aem/day-00-aem-developer-series/)
 
-    
