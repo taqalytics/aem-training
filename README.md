@@ -2,13 +2,30 @@
 
 Here we will be adding training materials and resources to learn AEM (Adobe Experience Manager) as a practitioner, developer, and architect and as well as how to get certifications for these roles.
 
-## Prerequisite:
 
--  Basic knowledge of Java
-    - Recommended Courses for [Java Essential Training](https://www.linkedin.com/learning/java-8-essential-training) 
+## Practicioner Training 
+
+### Prerequisites:
+
+- Basic knowledge of Web authoring and data entry
+
+-  Ability to use different browsers/devices and test responsiveness
+
+
+### Audiences:
+ - Authors
+ - Business Analysts
+ - QA Testers
+
+## Developer Training 
+
+### Prerequisite:
+
+## Basic knowledge of Java
 
 -  Basic knowledge of HTML / JS / CSS
-    - Recommended Courses [HTML](https://www.linkedin.com/learning/html-essential-training-4), [CSS](https://www.linkedin.com/learning/css-essential-training-3), [JS](https://www.linkedin.com/learning/javascript-essential-training)
+
+## AEM Tutorials
 
 ## AEM Tutorials
 
