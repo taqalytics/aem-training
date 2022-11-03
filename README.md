@@ -16,23 +16,26 @@ Here we will be adding training materials and resources to learn AEM (Adobe Expe
  - Authors
  - Business Analysts
  - QA Testers
+ - Digital Marketers
 
-## Developer Training 
-
+## Business Training 
+-  [ADOBE EXPERIENCE MANAGER skill builder program](https://express.adobe.com/page/CPcBCmlE8drTr/)
+-  [Getting started with AEM Sites for Business Users](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites)
 ### Prerequisite:
 
-## Basic knowledge of Java
+-  Basic knowledge of Java
 
 -  Basic knowledge of HTML / JS / CSS
 
-## AEM Tutorials
+### Audiences:
+ - Front End Developers
+ - Back End Developers
+ - Architects
 
 ## AEM Tutorials
 
 -   Adobe AEM Tutorials
     - [Get started with AEM Sites - WKND tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=en)
-
--  [ADOBE EXPERIENCE MANAGER skill builder program](https://express.adobe.com/page/CPcBCmlE8drTr/)
 
 -   AEM Developer Series - (20 Days) A good step by step developer focussed series 
     - [AEM Developer Series](https://redquark.org/aem/day-00-aem-developer-series/)
