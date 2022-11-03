@@ -5,8 +5,10 @@ Here we will be adding training materials and resources to learn AEM (Adobe Expe
 ## Prerequisite:
 
 -  Basic knowledge of Java
+    - Recommended Courses for [Java Essential Training](https://www.linkedin.com/learning/java-8-essential-training) 
 
 -  Basic knowledge of HTML / JS / CSS
+    - Recommended Courses [HTML](https://www.linkedin.com/learning/html-essential-training-4), [CSS](https://www.linkedin.com/learning/css-essential-training-3), [JS](https://www.linkedin.com/learning/javascript-essential-training)
 
 ## AEM Tutorials
 
