@@ -25,7 +25,7 @@ Here we will be adding training materials and resources to learn AEM (Adobe Expe
 
 -  [ADOBE EXPERIENCE MANAGER skill builder program](https://express.adobe.com/page/CPcBCmlE8drTr/)
 -  [Getting started with AEM Sites for Business Users](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites)
--  Demo of Sharing &  Learning activities: 
+-  Demo of Sharing &  Learning activities: Students must be able to explain the features, capabilities of AEM Learning, show the activities completed in AEM environment 
 -  Course completion verfication  - 2 hrs
 
 
