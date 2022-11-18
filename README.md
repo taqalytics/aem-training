@@ -18,7 +18,8 @@ Here we will be adding training materials and resources to learn AEM (Adobe Expe
  - QA Testers
  - Digital Marketers
 
-## Business Training 
+##  Training 
+- Training will be a mix of 2 online meetings and video course from Adobe experience league(require registration) from the following links
 -  [ADOBE EXPERIENCE MANAGER skill builder program](https://express.adobe.com/page/CPcBCmlE8drTr/)
 -  [Getting started with AEM Sites for Business Users](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites)
 
