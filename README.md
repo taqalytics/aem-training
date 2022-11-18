@@ -1,4 +1,4 @@
-# AEM (ADOBE Experience Manager) Training
+# AEM (ADOBE Experience Manager) Basic Training
 
 Here we will be adding training materials and resources to learn AEM (Adobe Experience Manager) as a practitioner, developer, and architect and as well as how to get certifications for these roles.
 
@@ -19,9 +19,14 @@ Here we will be adding training materials and resources to learn AEM (Adobe Expe
  - Digital Marketers
 
 ##  Training 
-- Training will be a mix of 2 online meetings and video course from Adobe experience league(require registration) from the following links
+### Structure of the training will be as follow
+- Intial session for AEM Overview - 2 hrs live online session
+- Access to the environment, permissions verifcations for authoring tasks - 2 hrs live online session
+
 -  [ADOBE EXPERIENCE MANAGER skill builder program](https://express.adobe.com/page/CPcBCmlE8drTr/)
 -  [Getting started with AEM Sites for Business Users](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites)
+-  Demo of Sharing &  Learning activities: 
+-  Course completion verfication  - 2 hrs
 
 
 ## Adobe Certifications
