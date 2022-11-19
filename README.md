@@ -23,17 +23,21 @@ Here we will be adding training materials and resources to learn AEM (Adobe Expe
 - Intial session for AEM Overview - 2 hrs live online session
 - Access to the environment, permissions verifcations check  - 2 hrs live online session
 - Register and Access the following courses from  [Experience league ](https://experienceleague.adobe.com/)
-- [AEM Sites Skillbuilder](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2019.1.sites.builder)
-- [Getting started with AEM Sites for Business Users](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites) 
-- [Getting started with Multi-Site Management for Business Users] (https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites.msm)
--    Demo of Sharing &  Learning activities: Students must be able to explain the features, capabilities of AEM Learning, show the activities completed in AEM environment 
+- [Getting started with AEM Sites for Business Users](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites) 1 hrs
+- [AEM Sites Skillbuilder](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2019.1.sites.builder) - 5hrs
+- [Getting started with Multi-Site Management for Business Users] (https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites.msm) - 1 hr 39 minutes
+-    Demo of Sharing &  Learning activities: Students must be able to explain the features, capabilities of AEM Learning, show the activities completed in AEM environment  - 2 hrs
 
 ## Bonus Courses
-- [Advanced Sites Authoring](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2019.1.sites.adv)
-- [AEM sites for Quality Engineers](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2019.1.sites.adv)
+- [Advanced Sites Authoring](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2019.1.sites.adv) - 2 hrs
+- [AEM sites for Quality Engineers](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2019.1.sites.adv) - 2 hrs
 
+## Course completion criteria
+-  all items from required training 
+-  One Bonus course   from Experience League 
+-  Students must show the experience league course completion screenhsot
+-  Brief one to two pages of notes in their own words of the features, capabilities and experiences of content authoring
 
--  One Bonus course Course completion verfication from Experience League - 2 hrs
 ## Presentations & Other Resources
 -  [ADOBE EXPERIENCE MANAGER skill builder program](https://express.adobe.com/page/CPcBCmlE8drTr/)
 ## Adobe Certifications
