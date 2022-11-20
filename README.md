@@ -21,7 +21,7 @@ Here we will be adding training materials and resources to learn AEM (Adobe Expe
 ##  Training 
 ### Structure of the training will be as follow(Required)
 - Intial session for AEM Overview - 2 hrs live online session
-- Access to the environment, permissions verifcations check  - 2 hrs live online session
+- Access to the environment, permissions verifcations check  - 1 hrs live online session
 - Register and Access the following courses from  [Experience league ](https://experienceleague.adobe.com/)
 - [Getting started with AEM Sites for Business Users](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites) 1 hrs
 - [AEM Sites Skillbuilder](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2019.1.sites.builder) - 5hrs
