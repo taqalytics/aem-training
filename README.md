@@ -17,6 +17,7 @@ Here we will be adding training materials and resources to learn AEM (Adobe Expe
  - Business Analysts
  - QA Testers
  - Digital Marketers
+ - Digital Experience Developers
 
 ##  Training 
 ### Structure of the training will be as follow(Required)
