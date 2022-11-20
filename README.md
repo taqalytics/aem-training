@@ -26,7 +26,7 @@ Here we will be adding training materials and resources to learn AEM (Adobe Expe
 - Register and Access the following courses from  [Experience league ](https://experienceleague.adobe.com/)
 - [Getting started with AEM Sites for Business Users](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites) 1 hrs
 - [AEM Sites Skillbuilder](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2019.1.sites.builder) - 5hrs
-- [Getting started with Multi-Site Management for Business Users] (https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites.msm) - 1 hr 39 minutes
+- [Getting started with Multi-Site Management for Business Users](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites.msm) - 1 hr 39 minutes
 -    Demo of Sharing &  Learning activities: Students must be able to explain the features, capabilities of AEM Learning, show the activities completed in AEM environment  - 2 hrs
 
 ## Bonus Courses
