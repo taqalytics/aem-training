@@ -41,7 +41,8 @@ Here we will be adding training materials and resources to learn AEM (Adobe Expe
 
 ## Presentations & Other Resources
 -  [ADOBE EXPERIENCE MANAGER skill builder program](https://express.adobe.com/page/CPcBCmlE8drTr/)
-## Adobe Certifications
+
+## [Adobe Certifications](https://github.com/taqalytics/aem-training/blob/main/Certifications.md)
 
 -  [AEM Certifications requirements, training, and certification details](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#)
 
